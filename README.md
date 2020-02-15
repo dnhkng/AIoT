@@ -1,6 +1,10 @@
 # AIoT
 Cutting-Edge Artificial Intelligence on the Jetson Nano used to decode Brain Waves (EEG) on the Edge
 
+![Cover_Image](https://raw.githubusercontent.com/dnhkng/AIoT/master/cover.png)
+
+
+
 
 Want to build your own AI-powered Brain-Computer interface?
 
